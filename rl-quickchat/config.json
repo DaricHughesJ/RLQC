@@ -1,0 +1,49 @@
+{
+  "channel": "all",
+  "chat_keys": {
+    "all": "t",
+    "team": "y",
+    "party": "p"
+  },
+  "popup_hotkey": "ctrl+shift+enter",
+  "open_delay_ms": 250,
+  "char_delay_ms": 2,
+  "presets": [
+    {
+      "hotkey": "pad:dpad_down+lb",
+      "text": "That's mine! Thanks!"
+    },
+    {
+      "hotkey": "pad:dpad_up+lb",
+      "text": "TTV Iamdaric"
+    },
+    {
+      "hotkey": "pad:dpad_left+lb",
+      "text": "I am Batman..."
+    },
+    {
+      "hotkey": "pad:dpad_right+lb",
+      "text": "Don't touch that! Thats mine!"
+    },
+    {
+      "hotkey": "ctrl+5",
+      "text": "Sorry!"
+    },
+    {
+      "hotkey": "ctrl+6",
+      "text": "No problem."
+    },
+    {
+      "hotkey": "ctrl+7",
+      "text": "Close one!"
+    },
+    {
+      "hotkey": "ctrl+8",
+      "text": "Defending..."
+    },
+    {
+      "hotkey": "ctrl+9",
+      "text": "I got it!"
+    }
+  ]
+}
